@@ -38,6 +38,10 @@ If you don't get error then it is correctly installed.
 
 > OpenCV comes with a trainer as well as detector.
 
+## Key point to remember
+- Remember to copy the files haarcascade_frontalface_default.xml and haarcascade_eye.xml in your current directory. 
+- They are located in opencv/data/haarcascades
+
 ## Documentation for Cascade Classifier
 (https://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html)
 
