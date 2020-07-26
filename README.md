@@ -1,6 +1,20 @@
 # Face-and-Eyes-Detection-using-OpenCV
 To detect face and eyes using Open CV
 
+## Table of Contents
+  * [Installation Required](#installation-required)
+  * [To install Numpy using PIP](#to-install-numpy-using-pip)
+  * [OpenCV setup documentation for windows](#opencv-setup-documentation-for-windows)
+  * [OpenCV setup using pip command](#opencv-setup-using-pip-command)
+  * [Documentation for OpenCV setup using PIP command](#documentation-for-opencv-setup-using-pip-command)
+  * [To check whether OpenCV is installed correctly or not](#to-check-whether-opencv-is-installed-correctly-or-not)
+  * [Key point to remember](#key-point-to-remember)
+  * [Documentation for Cascade Classifier](#documentation-for-cascade-classifier)
+  * [Documentation for Cascade Classifier Training](#documentation-for-cascade-classifier-training)
+  * [Documentation for Face Detection using Haar Cascades](#documentation-for-face-detection-using-haar-cascades)
+  * [Demo](#demo)
+
+
 ## Installation Required
 - Numpy
 - CV2
